@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500636035712",
+    "project_id": "memory-game-989b6",
+    "storage_bucket": "memory-game-989b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500636035712:android:b99f7bd849f5b47a27d465",
+        "android_client_info": {
+          "package_name": "com.example.memory_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsC9F0zuosqG3_ysLkAoNWl8GQcu4aaR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
